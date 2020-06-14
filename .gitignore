@@ -2,6 +2,7 @@ node_modules/
 bower_components/
 *.log
 .vscode-test/
+out/
 
 build/
 dist/
